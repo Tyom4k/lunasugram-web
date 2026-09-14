@@ -1,0 +1,2 @@
+import{u as e}from"./teact-CWCKIlB_.js";import{gp as t,o as n,pu as r}from"./InputText-DxNQi0nZ.js";var i=`C:/Users/artem/telegram-tt/src/components/ui/Loading.tsx`,a=e(({color:e=`blue`,backgroundColor:a,className:o,onClick:s})=>t(`div`,{className:r(`Loading`,s&&`interactive`,o),onClick:s,children:t(n,{color:e,backgroundColor:a},void 0,!1,{fileName:i,lineNumber:21,columnNumber:7},void 0)},void 0,!1,{fileName:i,lineNumber:20,columnNumber:5},void 0));export{a as t};
+//# sourceMappingURL=Loading-pI0pV0YW.js.map
